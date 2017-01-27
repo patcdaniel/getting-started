@@ -26,15 +26,20 @@ Select <b>Python 3.5 version</b> (we will be using Python 3 for this course)
 After installing Anaconda, open the program <b>"terminal"</b>
 This is located in Applications -> Utilities<br>
 Or you can search for "terminal" in the spotlight (use press cmd-space).
+
 ![cmd_prompt](images/comd_prompt_osx.png)<br>
+
 Then, run the command "<b>Conda install git</b>" in the terminal
+
 ![conda_install_git](images/conda_install_git_os.png)
+
 This will install <b>git</b>, an important version control software  There may be a dialog asking you to installing or updating additional package. Enter "Y" and press enter.<br>
 Now we want to verify that <b>git</b> is installed using the following command in terminal:<br><br>
 <b>"conda list"</b>
 <br><br>
 This will display all of the packages and programs installed in this environment. Scroll down till you see <b>git</b>. This will tell you the version of the software or package. <br>
-![verify git windows](images/verify_git_osx.png)
+
+![verify git OSX](images/verify_git_osx.png)
 
 
 #### Signup for an account at <a>www.github.com</a> ####
